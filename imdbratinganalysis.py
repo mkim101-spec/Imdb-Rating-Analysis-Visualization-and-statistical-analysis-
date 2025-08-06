@@ -1,4 +1,4 @@
-# 🎬 IMDB Movie Ratings Analysis – Professional Portfolio Project
+# IMDB Movie Ratings Analysis – Professional Portfolio Project
 
 ## 🔧 Step-by-step Code Explanation and Results
 
@@ -114,7 +114,7 @@ plt.show(block=True)
 # Interpretation:
 # - Drama rated higher (8.93 vs 8.17), but not statistically significant (p = 0.2177)
 
-## ✅ Final Summary for Portfolio
+## Final Summary for Portfolio
 
 # Key takeaways:
 # - Strong clustering of top-rated films (~8.2)
@@ -127,3 +127,4 @@ plt.show(block=True)
 # - Statistical testing: Pearson, ANOVA, t-test
 # - Data visualization
 # - Insight communication and interpretation
+
